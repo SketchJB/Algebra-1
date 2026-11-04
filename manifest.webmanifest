@@ -1,0 +1,14 @@
+{
+  "name": "Study Hub",
+  "short_name": "Study Hub",
+  "description": "Algebra 1 in 7 days and Business Ch. 1-7 exam prep.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#2347c2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
